@@ -8,8 +8,9 @@
 
 
 C를 기반으로한 흑백 raw 이미지 처리 툴 입니다.
-cmd에서 동작하며 이미지의 픽셀값을 2D Array에 저장후 포인터를 사용해 reference후 처리하는 방식입니다
-
+cmd에서 동작하며 이미지의 픽셀값을 2D Array에 저장후 포인터를 사용해 reference후 처리하는 방식입니다.
+메모리는 <stdlib.h> 라이브러리의 malloc() 함수를 이용하여 alloc. 및 free 합니다.
+이미지 처리 기능은 행렬에 저장된 픽셀값들과 행렬들을 transpose하여 이루어집니다.
 
 This is a C-based image viewer/editor.
 Run in cmd, images' pixel values are saved in a 2D-array which are referenced by pointers.
@@ -24,11 +25,17 @@ The application supports basic image editing by adjusting pixel values and trans
 - 저장
 - 연속 처리
 
+- Save
+- Consecutive operations
 
 ### 보정
 - 밝기 조절
 - 레벨링
 - 필터링
+
+- Brightness Adjustment
+- Leveling
+- Filtering (convolutions)
 
 | ![image](https://user-images.githubusercontent.com/22307448/142999839-588f0d5d-fbff-4d9b-a622-a483e3771507.png) |
 | ------------------------------------------------------------ |
@@ -47,6 +54,9 @@ The application supports basic image editing by adjusting pixel values and trans
 ### Geometry
 - 회전
 - 플립
+
+- Rotate
+- Flip
 
 | ![image](https://user-images.githubusercontent.com/22307448/142996198-11eb1950-ac77-455b-bc93-e74e89ca3dc1.png) |
 | ------------------------------------------------------------ |
