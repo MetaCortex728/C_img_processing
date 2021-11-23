@@ -24,6 +24,8 @@ The application supports basic image editing by adjusting pixel values and trans
 - 밝기 조절
 - 레벨링
 - 필터링
+
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
