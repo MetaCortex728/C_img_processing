@@ -25,9 +25,9 @@ The application supports basic image editing by adjusting pixel values and trans
 - 레벨링
 - 필터링
 
-|![image](https://user-images.githubusercontent.com/22307448/142996229-a08c9086-9d5d-4698-8fe2-be70a2d59157.png)|
-|![image](https://user-images.githubusercontent.com/22307448/142996252-9bc0bf1b-12c6-4103-8453-dbba58e657c3.png)|
-|![image](https://user-images.githubusercontent.com/22307448/142996285-c2c12f87-ac17-410d-bce6-06775b0a00c6.png)|
+| ![image](https://user-images.githubusercontent.com/22307448/142996229-a08c9086-9d5d-4698-8fe2-be70a2d59157.png) |
+| ![image](https://user-images.githubusercontent.com/22307448/142996252-9bc0bf1b-12c6-4103-8453-dbba58e657c3.png) |
+| ![image](https://user-images.githubusercontent.com/22307448/142996285-c2c12f87-ac17-410d-bce6-06775b0a00c6.png) |
 
 
 
