@@ -26,7 +26,8 @@ The application supports basic image editing by adjusting pixel values and trans
 - 필터링
 
 
-| <img src="C:\IMG_PROJECT\P1_C\temp.jpg" alt="temp" style="zoom: 67%;" /> |
+
+| ![temp](https://user-images.githubusercontent.com/22307448/142999543-baadaa14-5b8e-4506-b5c3-19946dbf7297.jpg) |
 | ------------------------------------------------------------ |
 | ![image](https://user-images.githubusercontent.com/22307448/142996252-9bc0bf1b-12c6-4103-8453-dbba58e657c3.png) |
 | ![image](https://user-images.githubusercontent.com/22307448/142996285-c2c12f87-ac17-410d-bce6-06775b0a00c6.png) |
