@@ -9,7 +9,12 @@ cmd에서 동작하며 이미지의 픽셀값을 2D Array에 저장후 포인터
 이미지를 행렬에 저장하고 기본적인 영상 처리를 수행합니다.
 
 
-##Functionalities
+## Functionalities
+
+
+
+
+## 
 
 
 
