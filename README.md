@@ -1,9 +1,8 @@
 # C-Based Image Processor
 
-| ![image](https://user-images.githubusercontent.com/22307448/142989076-8d93b180-4fd3-4e7d-84f6-9fdfcfbb8b1b.png) | ![image](https://user-images.githubusercontent.com/22307448/143000251-805157e7-a61b-4c9d-b924-15245f39014d.png) |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-
+| ![image](https://user-images.githubusercontent.com/22307448/142989076-8d93b180-4fd3-4e7d-84f6-9fdfcfbb8b1b.png) |
+| ------------------------------------------------------------ |
+| ![image](https://user-images.githubusercontent.com/22307448/143000251-805157e7-a61b-4c9d-b924-15245f39014d.png) |
 
 
 
