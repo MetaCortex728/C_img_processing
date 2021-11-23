@@ -66,6 +66,8 @@ The application supports basic image editing by adjusting pixel values and trans
 
 ## Notes
 _저수준 제어가 가능한 이미지 처리 기능구현이 프로그램의 목적입니다_
+
 _다양한 확장자처리, 이미지 사이즈 핸들링 및 리사이징은 지원하지 않습니다_
+
 _베이스 경로는 C:\images\raw512 입니다_
 
